@@ -18,7 +18,7 @@ public class App {
 
         do {
             exibirMenu();
-            System.out.print("Escolha uma opção: ");
+            System.out.print("Escolha uma opção: KAIQUE É O MELHOR PROFESSOR DO MUNDO");
             opcao = sc.nextInt();
             sc.nextLine();
             limparTela();
