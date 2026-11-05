@@ -18,7 +18,7 @@ public class App {
 
         do {
             exibirMenu();
-            System.out.print("Escolha uma opção: ");
+            System.out.print(" AGNALDO: ");
             opcao = sc.nextInt();
             sc.nextLine();
             limparTela();
